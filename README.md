@@ -5,12 +5,19 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+software engineering enables us to develop and test useful software depending on the problem being faced.
+software engineering enables one to secure a job after learning the software engineering principles and essentials.
+software engineering enables one to create useful and reliable software in the technology industry.
+software engineering enables one to understand the true meaning of problem solving 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
+
 List and briefly explain the phases of the Software Development Life Cycle.
+software engineering helps in the identifying of the problem.
+software engineering helps in the designing  of the problem being identified.
+software engineering helps in the implementing of software being craeted after the design.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
