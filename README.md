@@ -30,6 +30,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Software engineers face the challenge 
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -39,6 +40,10 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering refers to the process of setting of instructions to an AI model for accuracy.
+
+Prompt engineering enables an AI model to be accurate 
+promt engineering enables an AI model to follow instructions based on its prompt .
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
