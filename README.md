@@ -30,8 +30,11 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Software engineers face the challenge 
+Software engineers face the challenge of rapid technological change ... in which there are some advancement in the technological distribution therefore they learn by adjusting to the new technological change.
 
+software engineers face the challenge of debugging there codes .. once a code is created by an engineer he/she faces the challenge of debugging therefore they check  codes closely for any errors and solve them easily.
+
+software engineers face the challenge of prssure from clients to deliver there work in time .... once the engineer comes s given work time deliver he/she needs to deliver it on time .. therefore they face time barrier once they dont finish the work been given in time therefore they get pressured by the client.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
